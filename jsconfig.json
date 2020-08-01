@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "jsx": "react",
+        "baseUrl": "./src",
+        "paths": {
+            "@components/*": ["components/*"],
+            "@assets/*":["assets/*"],
+            "@redux/*":["redux/*"],
+            "@utils/*":["utils/*"],
+            "@navigators/*":["navigators/*"],
+            "@screens/*":["screens/*"]
+
+        },
+        "sourceMap": true
+    },
+    "exclude": ["node_modules", "build", "coverage", "dist", "lib","src/*"]
+}

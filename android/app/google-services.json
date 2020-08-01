@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "835585734420",
+    "firebase_url": "https://freelancers-5b3eb.firebaseio.com",
+    "project_id": "freelancers-5b3eb",
+    "storage_bucket": "freelancers-5b3eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835585734420:android:e7dc4790da26d5db5bf401",
+        "android_client_info": {
+          "package_name": "com.react_native_chat_api_trong_tin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835585734420-ip6tdrqh0phoqkq8nj27vark3p0933gp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARzy50e7UYSIoION-4RJk50p4NOfbewyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835585734420-ip6tdrqh0phoqkq8nj27vark3p0933gp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "835585734420-3e9amipptep4udhcimgshdathc3kl3e3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.react-native-chat-api-trong-tin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
